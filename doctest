@@ -1,0 +1,13 @@
+.. Copyright (C) 2015, Wazuh, Inc.
+
+.. meta::
+  :description: Get started with Wazuh. Learn about our open source community of developers, the Wazuh components, architecture, and deployment.
+  
+Getting started with Wazuh
+==========================
+
+Wazuh is a free and open source security platform that unifies XDR and SIEM capabilities. It protects workloads across on-premises, virtualized, containerized, and cloud-based environments.
+
+Wazuh helps organizations and individuals to protect their data assets against security threats. It is widely used by thousands of organizations worldwide, from small businesses to large enterprises.
+
+Check this Getting Started for an overview of the Wazuh platform :doc:`components <components/index>`, :doc:`architecture <architecture>`, and common :doc:`use cases <use-cases/index>`.
